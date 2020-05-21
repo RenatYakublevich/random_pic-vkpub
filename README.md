@@ -1,2 +1,7 @@
 # random_pic-vkpub
-Скрипт полностью наполняющий паблик рандомными картинками и текстом
+
+A script that fully automatically fills the public with pictures and text to pictures
+
+New pictures every hour (due to VK restrictions)
+
+go4sub - https://vk.com/randompicturessss
